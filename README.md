@@ -1,6 +1,6 @@
 # Pokédex Take-Home Assignment - Senior Frontend Developer
 
-_This project showcases modern frontend development skills, emphasizing clean code, performance, and user experience. I wanted to add testing but due due to time constraint for this test, and having to add congif files and deps, chose not to write comprehensive unit test, in order to better use the time to showcase front-end, typescript, and react knowledge_
+_This project showcases modern frontend development skills, emphasizing clean code, performance, and user experience. I wanted to add testing but due to time constraint for this test, and having to add config files and deps, chose not to write comprehensive unit test, in order to better use the time to showcase front-end, typescript, and react knowledge_
 
 ### Prerequisites
 
